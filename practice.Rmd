@@ -1,5 +1,5 @@
 ---
-title: 'ANGSD Week 1: Practice Exercise -- Aditi Gopalan'
+title: 'ANGSD Week 1: Practice Exercise -- Aditi_Gopalan'
 author: "Aditi Gopalan"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
