@@ -1,6 +1,6 @@
 ---
-title: 'Week 1: Practice Exercise'
-author: "Mervin Fansler"
+title: 'ANGSD Week 1: Practice Exercise -- Aditi Gopalan'
+author: "Aditi Gopalan"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   html_document:
